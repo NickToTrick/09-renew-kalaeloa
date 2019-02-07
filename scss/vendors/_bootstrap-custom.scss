@@ -1,0 +1,26 @@
+
+// custom variables and override bootstrap variables
+
+// Colors
+$light-green: #0ea687;
+$green: #047a61;
+$light-blue: #335297;
+$blue: #03247f;
+$yellow: #fcd500;
+$bg-gray: #3b3b3b;
+$navbar-light-color: $bg-gray;
+$primary: rgba(0, 27, 87, .82);
+
+// Links
+$link-color: $yellow;
+$link-hover-decoration: none;
+
+// Fonts
+$h1-font-size: 84px;
+$h2-font-size: 30px;
+$h3-font-size: 28px;
+$h4-font-size: 26px;
+$h5-font-size: 24px;
+$h6-font-size: 22px;
+$paralucent-text: "paralucent-text", sans-serif;
+$font-family-base: $paralucent-text;
